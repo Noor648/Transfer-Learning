@@ -1,1 +1,3 @@
-# Transfer-Learning
+ Transfer-Learning
+ Data Augmentation
+ DCT / DWT
